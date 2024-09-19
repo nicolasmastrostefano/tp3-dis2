@@ -1467,7 +1467,6 @@ progress {
   }
   .col-xl-8 {
     flex: 0 0 auto;
-    width: 66.66666667%;
   }
   .col-xl-9 {
     flex: 0 0 auto;
@@ -7668,6 +7667,10 @@ textarea.form-control-lg {
   margin-bottom: 2.5rem !important;
 }
 
+.mb-41 {
+  margin-bottom: 0rem !important;
+}
+
 .mb-5 {
   margin-bottom: 3rem !important;
 }
@@ -10840,7 +10843,7 @@ html {
 }
 
 .bg-gradient-primary-to-secondary {
-  background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+  background: linear-gradient(45deg, #ff554d, #f5b8b5) !important;
 }
 
 .font-alt {
